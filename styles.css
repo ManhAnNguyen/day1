@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: red;
+}
+
+/* id : # */
+
+/* #hello {
+  color: red;
+} */
+
+/* tag */
+/* h1 {
+  color: yellow;
+} */
+
+/* class */
+/* .text {
+  color: blue;
+} */
+
+/* #title {
+  color: red;
+} */
+
+/* .class-title.class-title-2 {
+  color: blue;
+}
+
+.class-title h1 {
+  color: brown;
+} */
+/* ul li {
+  color: red;
+}
+
+ul li:last-child {
+  color: blue;
+}
+
+ul li:first-child {
+  color: white;
+} */
+
+/* .item {
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+}
+#item-1 {
+  background-color: red;
+
+  margin: 0 auto;
+}
+#item-2 {
+  background-color: yellow;
+  margin-top: 30px;
+}
+
+.image {
+  width: 40px;
+  height: 40px;
+}
+.image img {
+  width: 100%;
+} */
+
+/* body {
+  padding: 100px;
+}
+
+.container {
+  border: 1px dotted red;
+  width: 600px;
+  height: 600px;
+}
+.item {
+  width: 100px;
+  height: 100px;
+}
+.item-1 {
+  background-color: red;
+}
+.item-2 {
+  background-color: yellow;
+}
+.item-3 {
+  background-color: blue;
+}
+.item-4 {
+  background-color: green;
+} */
+
+.table-container {
+  max-width: 1200px;
+
+  margin: 0 auto;
+  border: 1px solid red;
+  margin-top: 200px;
+  box-sizing: border-box;
+}
+
+.table-container table {
+  width: 100%;
+  min-width: 800px;
+}
+h1 {
+  color: red;
+  background-color: white;
+}
